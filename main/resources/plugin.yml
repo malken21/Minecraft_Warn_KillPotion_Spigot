@@ -1,0 +1,4 @@
+name: Warn_KillPotion
+version: '${version}'
+main: marumasa.warn_killpotion.minecraft
+api-version: 1.16
